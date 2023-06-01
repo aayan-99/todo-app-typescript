@@ -1,4 +1,4 @@
-# Netflix Clone
+# ToDo App using React + TypeScript
 
 This is a ToDo application developed using React + Typescript, MobX for state mangement and TailwindCSS for styling the ui. This my first attempt at understanding Typescript and MobX.
 
@@ -25,10 +25,10 @@ From your command line, first clone this repo:
 ```bash
 
 # Clone this repository
-$ git clone https://github.com/aayan-99/Netflix-Clone
+$ git clone https://github.com/aayan-99/todo-app-typescript.git
 
 # Go into the repository
-$ cd Netflix-Clone
+$ cd todo-app-typescript
 
 # Remove current origin repository
 $ git remote remove origin
